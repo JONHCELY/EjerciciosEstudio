@@ -1,0 +1,14 @@
+C:\Users\JCELY\source\repos\Rectificador_Referencias\EjerciciosEstudio\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\JCELY\source\repos\Rectificador_Referencias\EjerciciosEstudio\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\JCELY\source\repos\Rectificador_Referencias\EjerciciosEstudio\BLL\bin\Debug\BLL.dll.config
+C:\Users\JCELY\source\repos\Rectificador_Referencias\EjerciciosEstudio\BLL\bin\Debug\BLL.dll
+C:\Users\JCELY\source\repos\Rectificador_Referencias\EjerciciosEstudio\BLL\bin\Debug\BLL.pdb
+C:\Users\JCELY\source\repos\Rectificador_Referencias\EjerciciosEstudio\BLL\obj\Debug\BLL.dll
+C:\Users\JCELY\source\repos\Rectificador_Referencias\EjerciciosEstudio\BLL\obj\Debug\BLL.pdb
+C:\Users\JCELY\source\repos\EjerciciosEstudio\BLL\bin\Debug\BLL.dll.config
+C:\Users\JCELY\source\repos\EjerciciosEstudio\BLL\bin\Debug\BLL.dll
+C:\Users\JCELY\source\repos\EjerciciosEstudio\BLL\bin\Debug\BLL.pdb
+C:\Users\JCELY\source\repos\EjerciciosEstudio\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\JCELY\source\repos\EjerciciosEstudio\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\JCELY\source\repos\EjerciciosEstudio\BLL\obj\Debug\BLL.dll
+C:\Users\JCELY\source\repos\EjerciciosEstudio\BLL\obj\Debug\BLL.pdb

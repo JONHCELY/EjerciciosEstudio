@@ -1,0 +1,7 @@
+C:\Users\JCELY\source\repos\EjerciciosEstudio\DAL\bin\Debug\DAL.dll.config
+C:\Users\JCELY\source\repos\EjerciciosEstudio\DAL\bin\Debug\DAL.dll
+C:\Users\JCELY\source\repos\EjerciciosEstudio\DAL\bin\Debug\DAL.pdb
+C:\Users\JCELY\source\repos\EjerciciosEstudio\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\JCELY\source\repos\EjerciciosEstudio\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\JCELY\source\repos\EjerciciosEstudio\DAL\obj\Debug\DAL.dll
+C:\Users\JCELY\source\repos\EjerciciosEstudio\DAL\obj\Debug\DAL.pdb
