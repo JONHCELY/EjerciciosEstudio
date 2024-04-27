@@ -5,3 +5,10 @@ C:\Users\JCELY\source\repos\EjerciciosEstudio\DTO\obj\Debug\DTO.csproj.AssemblyR
 C:\Users\JCELY\source\repos\EjerciciosEstudio\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\JCELY\source\repos\EjerciciosEstudio\DTO\obj\Debug\DTO.dll
 C:\Users\JCELY\source\repos\EjerciciosEstudio\DTO\obj\Debug\DTO.pdb
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DTO\bin\Debug\DTO.dll.config
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DTO\bin\Debug\DTO.dll
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DTO\bin\Debug\DTO.pdb
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DTO\obj\Debug\DTO.dll
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DTO\obj\Debug\DTO.pdb

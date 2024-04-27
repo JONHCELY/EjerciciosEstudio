@@ -5,3 +5,10 @@ C:\Users\JCELY\source\repos\EjerciciosEstudio\DAL\obj\Debug\DAL.csproj.AssemblyR
 C:\Users\JCELY\source\repos\EjerciciosEstudio\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\JCELY\source\repos\EjerciciosEstudio\DAL\obj\Debug\DAL.dll
 C:\Users\JCELY\source\repos\EjerciciosEstudio\DAL\obj\Debug\DAL.pdb
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DAL\bin\Debug\DAL.dll.config
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DAL\bin\Debug\DAL.dll
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DAL\bin\Debug\DAL.pdb
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DAL\obj\Debug\DAL.dll
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\DAL\obj\Debug\DAL.pdb

@@ -12,6 +12,7 @@ namespace Ejercicios
         static void Main(string[] args)
         {
             Console.WriteLine("------------------------------------------------------");
+            Console.WriteLine("------------------------------------------------------");
             Console.WriteLine(" Seleccione el Numero del servicio que desea ejecutar");
             Console.WriteLine("------------------------------------------------------");
             Console.WriteLine("1. Figuras de asteriscos");

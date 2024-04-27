@@ -12,3 +12,10 @@ C:\Users\JCELY\source\repos\EjerciciosEstudio\BLL\obj\Debug\BLL.csproj.AssemblyR
 C:\Users\JCELY\source\repos\EjerciciosEstudio\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
 C:\Users\JCELY\source\repos\EjerciciosEstudio\BLL\obj\Debug\BLL.dll
 C:\Users\JCELY\source\repos\EjerciciosEstudio\BLL\obj\Debug\BLL.pdb
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\BLL\bin\Debug\BLL.dll.config
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\BLL\bin\Debug\BLL.dll
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\BLL\bin\Debug\BLL.pdb
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\BLL\obj\Debug\BLL.dll
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\BLL\obj\Debug\BLL.pdb

@@ -22,3 +22,15 @@ C:\Users\JCELY\source\repos\EjerciciosEstudio\EjerciciosEstudio\obj\Debug\Ejerci
 C:\Users\JCELY\source\repos\EjerciciosEstudio\EjerciciosEstudio\obj\Debug\EjerciciosEstudio.csproj.CopyComplete
 C:\Users\JCELY\source\repos\EjerciciosEstudio\EjerciciosEstudio\obj\Debug\EjerciciosEstudio.exe
 C:\Users\JCELY\source\repos\EjerciciosEstudio\EjerciciosEstudio\obj\Debug\EjerciciosEstudio.pdb
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\bin\Debug\EjerciciosEstudio.exe.config
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\bin\Debug\EjerciciosEstudio.exe
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\bin\Debug\EjerciciosEstudio.pdb
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\bin\Debug\BLL.dll
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\bin\Debug\BLL.pdb
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\bin\Debug\BLL.dll.config
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\obj\Debug\EjerciciosEstudio.csproj.AssemblyReference.cache
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\obj\Debug\EjerciciosEstudio.csproj.SuggestedBindingRedirects.cache
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\obj\Debug\EjerciciosEstudio.csproj.CoreCompileInputs.cache
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\obj\Debug\EjerciciosEstudio.csproj.CopyComplete
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\obj\Debug\EjerciciosEstudio.exe
+C:\Users\JCELY\Desktop\Jonh\UpWork\Ejercicio\EjerciciosEstudio\EjerciciosEstudio\EjerciciosEstudio\obj\Debug\EjerciciosEstudio.pdb
